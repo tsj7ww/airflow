@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+beautifulsoup4
+
+# sklearn
+# scipy
+# xgboost
+# tensorflow
+# parquet
